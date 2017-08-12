@@ -9,7 +9,7 @@ import java.lang.Object;
 import java.awt.Robot;
 /**
  *
- * @author Khalifa
+ * @author khalifamohamed
  */
 public class MouseMover {
     public static void keepmousemoving() throws AWTException
